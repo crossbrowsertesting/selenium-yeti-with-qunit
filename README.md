@@ -1,5 +1,5 @@
-## selenium-parallel-javascript
-### Runs selenium scripts in parallel on CrossBrowserTesting.com
+## selenium-yeti-with-qunit
+Selenium script examples using Yeti with Qunit for CrossBrowserTesting.com
 #### Written in Javascript
 
 Tests are ran using Yeti http://yeti.cx   
